@@ -11,7 +11,8 @@ so that I could work out if I needed more panels or batteries, I found the avail
 
 I found the above project by "wrybread" and decided to work from that, but using an ESP32 so that data can be displayed on my mobile phone via an internal site via wifi as below.
 
-<img width="432" height="904" alt="image" src="https://github.com/user-attachments/assets/aac7cb14-3e40-4d1b-9b07-34ceaccc1a4f" />
+<img width="302" height="633" alt="image" src="https://github.com/user-attachments/assets/01803cd5-9a77-4aba-b5af-4bda834b2e75" />
+
 
 This readings backgrounds are dynamic meaning they change colour depending on state. I have also used 2 PWM boards so I can change brightness etc etc.
 
