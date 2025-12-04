@@ -14,7 +14,7 @@ I found the above project by "wrybread" and decided to work from that, but using
 <img width="302" height="633" alt="image" src="https://github.com/user-attachments/assets/01803cd5-9a77-4aba-b5af-4bda834b2e75" />
 
 
-This readings backgrounds are dynamic meaning they change colour depending on state. I have also used 2 PWM boards so I can change brightness etc etc.
+The readings backgrounds are dynamic, meaning they change colour depending on state. I have also used 2 PWM boards so I can change brightness etc etc.
 
 One I got this up and running, a friend wanted to do the same and bought the same charge controller, but found these charge controllers now come with an RS485 RJ45 port.
 He left his controller with me for a couple of days and I managed to change my code so that it works on RS232 and RS485.
