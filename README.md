@@ -29,6 +29,6 @@ RS232 Converter as used.
 Two circuit diagrams included of my system showing the different connections.
 
 My code is probably messy but works, I have added a lot of comments to help others that may be interested.
-
+Ensure you edit your WIFI ID and password, also your prefered IP details.
 
 This project and software is provided “as is," and you use at your own risk!
