@@ -24,7 +24,8 @@ RS485 Converter as used.
 ![max485](https://github.com/user-attachments/assets/17d5034b-eed4-47a5-bc85-863e90c25a85)
 
 RS232 Converter as used.
-![RS232  to TTL Converter](https://github.com/user-attachments/assets/542679a2-2f85-4505-9ac2-aa09d393bc7d)
+<img width="207" height="122" alt="image" src="https://github.com/user-attachments/assets/8201b51f-2daa-4913-85fe-167d25d12d03" />
+
 
 Two circuit diagrams included of my system showing the different connections.
 
