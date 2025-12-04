@@ -21,3 +21,8 @@ He left his controller with me for a couple of days and I managed to change my c
 For RS232, you need a cheap RS232 to TTL converter, for RS485, you need a cheap RS485 to TTL converter, my code works on either without having to select anything.
 
 Two circuit diagrams included of my system showing the different connections.
+
+My code is probably messy but works, I have added a lot of comments to help others that may be interested.
+
+
+This project and software is provided “as is," and you use at your own risk!
