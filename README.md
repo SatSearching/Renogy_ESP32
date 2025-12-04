@@ -19,7 +19,7 @@ The readings backgrounds are dynamic, meaning they change colour depending on st
 One I got this up and running, a friend wanted to do the same and bought the same charge controller, but found these charge controllers now come with an RS485 RJ45 port.
 He left his controller with me for a couple of days and I managed to change my code so that it works on RS232 and RS485.
 
-For RS232, you need a cheap RS232 to TTL converter, for RS485, you need a cheap RS485 to TTL converter, my code works on either without having to select anything.
+For RS232, you need a cheap RS232 to TTL converter, for RS485, you need a cheap RS485 to TTL converter, my code works on either without having to select anything or edit/change ESP code.
 
 RS485 Converter as used.
 ![max485](https://github.com/user-attachments/assets/17d5034b-eed4-47a5-bc85-863e90c25a85)
