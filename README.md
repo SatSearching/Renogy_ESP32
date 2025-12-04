@@ -26,6 +26,9 @@ RS485 Converter as used.
 RS232 Converter as used.
 <img width="207" height="122" alt="image" src="https://github.com/user-attachments/assets/8201b51f-2daa-4913-85fe-167d25d12d03" />
 
+LED controllers as used.
+<img width="276" height="148" alt="image" src="https://github.com/user-attachments/assets/ee56ce6d-3127-45ea-bcce-c62c946515e4" />
+
 
 Two circuit diagrams included of my system showing the different connections.
 
