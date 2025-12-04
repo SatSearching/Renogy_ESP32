@@ -32,3 +32,9 @@ My code is probably messy but works, I have added a lot of comments to help othe
 Ensure you edit your WIFI ID and password, also your prefered IP details.
 
 This project and software is provided “as is," and you use at your own risk!
+
+![ESP32-S3 wif FOR DRAWINGSi](https://github.com/user-attachments/assets/7306e0a4-803c-46fd-acbf-725fe252dd06)
+
+
+
+
